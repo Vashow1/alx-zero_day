@@ -1,1 +1,1 @@
-My first readme
+This repository is for familiarization with git purposes
